@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Kelle>
+    <manita>
+        <ad>Sukran</ad>
+        <soyad>Erdeniz</soyad>
+        <bolum>Bilgisayar programcılıgı</bolum>
+        <yas>24</yas>
+    </manita>
+    
+    <manita>
+        <ad>Rukiye</ad>
+        <soyad>Kent</soyad>
+        <bolum>Dis ticaret</bolum>
+        <yas>24</yas>
+    </manita>
+    
+    <manita>
+        <ad>Eda</ad>
+        <soyad>yergok</soyad>
+        <bolum>Lojistik-1</bolum>
+        <yas>24</yas>
+    </manita>
+    <manita>
+        <ad>Nilufer</ad>
+        <soyad>OK</soyad>
+        <bolum>Lojistik-2</bolum>
+        <yas>24</yas>
+    </manita>
+   
+
+    
+</Kelle>
